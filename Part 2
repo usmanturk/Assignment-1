@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 1</title>
+</head>
+<body>
+<div>
+<h4>Category <b> Web development
+    UX/UI design</b> </h4>
+    <img src="https://itssharl.ee/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FAorJtjCQpCBcZQotur7j&w=2048&q=75" height="400" width="400" >
+<p>ACT Responsable is an association that identifies and brings together the best committed advertisements around the world in order to raise awareness of major issues (solidarity, environment, human rights and education). The objective was to take care of the redesign of the French site, focused on the actions carried out by ACT Responsable, that is to say exhibitions, interventions in the school environment or the NG'Ad club</p>
+        
+    </div>
+    <div>
+        <h4>Category <b>Portrait
+            3D
+            motion-design</b> </h4>
+        
+        <img src="https://itssharl.ee/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9a4z8D7SKGGChwS7LTE&w=1920&q=75" height="400" width="400"> 
+        <p>In 2020, singer Dua Lipa released Hallucinate, the fourth single from her second album Future Nostalgia. The idea was to make a colorful and psychedelic illustration to cause a hallucinatory effect. The different elements around the portrait are in reference to the lyrics and more generally to the universe of the album as well as to the disco-house instrumental of the title.</p>
+
+    </div>
+    <a href="https://itssharl.ee/fr/work">veiw poject</a>
+</body>
+</html>
